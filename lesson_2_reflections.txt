@@ -5,3 +5,11 @@ Git starts to track the untraced files in the folder.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It offers an intermediate place for committing the files
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+By sequentially adding the changes to staging area and then committing
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+For testing out some changes that might /might not go into the main product
