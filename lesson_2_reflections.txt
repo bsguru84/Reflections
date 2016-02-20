@@ -17,3 +17,7 @@ For testing out some changes that might /might not go into the main product
 How do the diagrams help you visualize the branch structure?
 
 In a great ways
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+It is a single branch , Yay!!
