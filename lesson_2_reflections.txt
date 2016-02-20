@@ -21,3 +21,7 @@ In a great ways
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 It is a single branch , Yay!!
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging is gr8 until git can figure out how to merge.
