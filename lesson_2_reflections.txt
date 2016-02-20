@@ -13,3 +13,7 @@ By sequentially adding the changes to staging area and then committing
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 For testing out some changes that might /might not go into the main product
+
+How do the diagrams help you visualize the branch structure?
+
+In a great ways
