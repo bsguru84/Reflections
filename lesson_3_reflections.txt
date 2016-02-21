@@ -13,3 +13,7 @@ lot of diffrences!
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 It can be merged anytime as per our convinience and also the changes are saved locally to check them
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+No collaboration without using git / git hub!!
