@@ -9,3 +9,7 @@ I might not need some changes in the remote and it is up to me.
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 lot of diffrences!
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It can be merged anytime as per our convinience and also the changes are saved locally to check them
